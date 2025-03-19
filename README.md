@@ -1,0 +1,45 @@
+# Kütüphaneler
+
+- @reduxjs/toolkit
+- react-router-dom
+- react-leaflet
+- react-paginate
+- react-redux
+- bootstrap
+- leaflet
+- leaflet-rotatedmarker
+- axios
+- @splidejs/react-splide
+
+# API
+
+- https://rapidapi.com/apidojo/api/flight-radar1
+
+# Gerçek Zamanlı Veri Çekme
+
+## Fetch + setInterval
+
+- Avantaj:
+
+* Basit
+* Geniş Destek
+* Kontrol
+
+- Dezavataj:
+
+* Yüksek Maaliyet
+* Gecikme
+* Aşırı İstek
+
+## Websocket
+
+- Avantaj:
+
+* Gerçek Zamanlı
+* Verimli
+* Az Gecikme
+
+- Dezavataj:
+
+* Karmaşık
+# redux-toolkit-thunk-flightRadar
